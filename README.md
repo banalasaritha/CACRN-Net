@@ -1,6 +1,6 @@
 # CACRN-Net
 
-Channel Attention Convolutional Recurrent Neural Network for Few-Shot Speaker Identification
+Three dimentional log Mel Spectrogram based Channel Attention Convolutional Recurrent Neural Network for Few-Shot Speaker Identification
 
 VCTK and Voxceleb1 are publicly available.
 
